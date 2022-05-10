@@ -13,3 +13,12 @@
     border-radius: 2px;
     text-decoration: none;
 }
+.main-nav__item a:hover{
+    color: #649A0E;
+}
+.main-nav__item a:active{
+    color: #649A0E;
+}
+.main-nav__item a::after{
+    content: " | ";
+}
