@@ -3,3 +3,12 @@
     margin: 0;
     padding: 0;
 }
+h1{
+    font-family: serif;
+}
+#page-title{
+    font-family: Verdana,Seravek,serif;
+}
+.title{
+    font-size: 18px;
+}
